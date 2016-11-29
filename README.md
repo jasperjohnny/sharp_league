@@ -1,3 +1,5 @@
+#Sharp League
+
 Sharp League was a wagering tournament using fake money. It was like fantasy football, but better. That was the tag line anyway. 
 
 This was live from 2010-2013. It was a hobby project / labor of love. About 100 players at its max. Fun while it lasted. 
