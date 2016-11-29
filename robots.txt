@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /front/not_found
+Disallow: /front/terms
+Disallow: /front/privacy
+Disallow: /front/resend_pass
+Disallow: /front/error

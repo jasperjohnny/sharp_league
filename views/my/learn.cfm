@@ -1,0 +1,4 @@
+<cfoutput>
+
+test
+</cfoutput>
