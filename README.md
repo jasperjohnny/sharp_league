@@ -1,4 +1,4 @@
-#Sharp League
+# Sharp League
 
 Sharp League was a wagering tournament using fake money. It was like fantasy football, but better. That was the tag line anyway. 
 
